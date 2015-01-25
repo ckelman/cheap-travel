@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 9.99
+  departure_city: MyString
+  arrival_city: MyString
+  departure_time: 
+  arrival_time: 
+
+two:
+  price: 9.99
+  departure_city: MyString
+  arrival_city: MyString
+  departure_time: 
+  arrival_time: 
